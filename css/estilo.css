@@ -54,7 +54,7 @@ nav ul li {
 
 nav ul li a {
     color: #000000;
-    font-size: 1rem;
+    font-size: 18px;
     padding: 8px 12px;
     border-radius: 3px;
     text-transform: uppercase;
@@ -173,7 +173,7 @@ nav ul li a.active {
     display: block;
     text-align: center;
     font-weight: bold;
-    font-size: 22px;
+    font-size: 18px;
 }
 
 .contenedor .contenedor-items .item .boton-item{
